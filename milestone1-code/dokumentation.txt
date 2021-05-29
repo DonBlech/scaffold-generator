@@ -1,0 +1,10 @@
+
+Modul anlegen
+go mod init <module path>
+go mod init rjm-iz.de/scaffold-gen
+
+Programm ausführen
+go run .  
+
+Programm bauen
+go build
